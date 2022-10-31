@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ryan Winstanley](mailto:ryan.winstanley@owasp.org)
+* [Michael Holt](mailto:michael.holt@owasp.org)
+* [Ashley Fleet](mailto:ashley.fleet@owasp.org)
