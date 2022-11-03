@@ -34,7 +34,7 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 
 The chapter leaders are:
 * [Ryan Winstanley](https://www.linkedin.com/in/ryanwinstanley/) - Security Engineering Lead  
-* [Contact] (mailto:ryan.winstanley@owasp.org)
+* [Contact](mailto:ryan.winstanley@owasp.org)
 
 Michael Holt
 * Senior Security Analyst (Automotive Retail)
