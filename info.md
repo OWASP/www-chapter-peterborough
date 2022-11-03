@@ -17,4 +17,4 @@
 <!-- * [Slides Repo](#) -->
 
 ### Regional Coverage
-* Peterborough, Milton Keynes, Leicester, Nottingham , Lincoln, Grantham, Newark, Kings Lynn, Northampton and surrounding areas! 
+* Peterborough, Milton Keynes, Leicester, Nottingham, Lincoln, Grantham, Newark, Kings Lynn, Northampton and surrounding areas! 
