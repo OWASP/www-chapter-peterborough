@@ -46,21 +46,21 @@ The chapter leaders are:
     <td>Ryan Winstanley</td>
     <td>Security Engineering Lead</td>
     <td>Financial and Data Services</td>
-    <td><a href="https://www.linkedin.com/in/ryanwinstanley/">https://www.linkedin.com/in/ryanwinstanley/</a></td>
+    <td><a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a></td>
     <td><a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a></td>
   </tr>
   <tr>
     <td>Michael Holt</td>
     <td>Senior Security Analyst</td>
     <td>Automotive Retail</td>
-    <td><a href="https://www.linkedin.com/in/michael-holt-446b7524/">https://www.linkedin.com/in/michael-holt-446b7524/</a></td>
+    <td><a href="https://www.linkedin.com/in/michael-holt-446b7524/">LinkedIn</a></td>
     <td><a href="mailto:michael.holt@owasp.org">michael.holt@owasp.org</a></td>
   </tr>
   <tr>
     <td>Ashley Fleet</td>
     <td>Security Architecture Lead</td>
     <td>Financial and Data Services</td>
-    <td><a href="https://www.linkedin.com/in/ashley-fleet-90036077">https://www.linkedin.com/in/ashley-fleet-90036077</td>
+    <td><a href="https://www.linkedin.com/in/ashley-fleet-90036077">LinkedIn</td>
     <td><a href="mailto:ashley.fleet@owasp.org">ashley.fleet@owasp.org</a></td>
   </tr>
 </table> 
