@@ -33,15 +33,14 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 * Northampton
 
 The chapter leaders are:
-Ryan Winstanley
-* Security Engineering Lead (Financial and Data Services)
-* LinkedIn:
-* Email: ryan.winstanley@owasp.org
+* Ryan Winstanley | Security Engineering Lead | Financial and Data Services | <a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a> | <a href="ryan.winstanley@owasp.org">Email</a>
+* LinkedIn: 
+* Email: 
 
 Michael Holt
 * Senior Security Analyst (Automotive Retail)
-* LinkedIn:
-* Email: michael.holt@owasp.org
+* LinkedIn: https://www.linkedin.com/in/michael-holt-446b7524/
+* Email: <a href="michael.holt@owasp.org">michael.holt@owasp.org</a>
 
 Ashley Fleet
 * Security Architecture Lead (Financial and Data Services)
