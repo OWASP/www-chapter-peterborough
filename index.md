@@ -34,36 +34,13 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 
 The chapter leaders are:
 
- <table>
-  <tr>
-    <th>Name</th>
-    <th>Role</th>
-    <th>Industry</th>
-    <th>LinkedIn</th>
-    <th>Email</th>
-  </tr>
-  <tr>
-    <td>Ryan Winstanley</td>
-    <td>Security Engineering Lead</td>
-    <td>Financial and Data Services</td>
-    <td><a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a></td>
-    <td><a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a></td>
-  </tr>
-  <tr>
-    <td>Michael Holt</td>
-    <td>Senior Security Analyst</td>
-    <td>Automotive Retail</td>
-    <td><a href="https://www.linkedin.com/in/michael-holt-446b7524/">LinkedIn</a></td>
-    <td><a href="mailto:michael.holt@owasp.org">michael.holt@owasp.org</a></td>
-  </tr>
-  <tr>
-    <td>Ashley Fleet</td>
-    <td>Security Architecture Lead</td>
-    <td>Financial and Data Services</td>
-    <td><a href="https://www.linkedin.com/in/ashley-fleet-90036077">LinkedIn</td>
-    <td><a href="mailto:ashley.fleet@owasp.org">ashley.fleet@owasp.org</a></td>
-  </tr>
-</table> 
+
+
+| Name| Role | Industry | LinkedIn | Email
+| --- | --- | --- | --- | ---
+| Ryan Winstanley | Security Engineering Lead | Financial and Data Services | <a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a> | <a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a>
+| Michael Holt | Senior Security Analyst | Automotive Retail | <a href="https://www.linkedin.com/in/michael-holt-446b7524/">LinkedIn</a> | ><a href="mailto:michael.holt@owasp.org">michael.holt@owasp.org</a>
+| Ashley Fleet | Security Architecture Lead | Financial and Data Services | <a href="https://www.linkedin.com/in/ashley-fleet-90036077">LinkedIn</a> | <a href="mailto:ashley.fleet@owasp.org">ashley.fleet@owasp.org</a>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
