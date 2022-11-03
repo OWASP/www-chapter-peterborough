@@ -33,9 +33,20 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 * Northampton
 
 The chapter leaders are:
-* Ryan Winstanley - Security Engineering Lead (Financial and Data Services)
-* Michael Holt - Senior Security Analyst (Automotive Retail)
-* Ashley Fleet - Security Architecture Lead (Financial and Data Services)
+Ryan Winstanley
+* Security Engineering Lead (Financial and Data Services)
+* LinkedIn:
+* Email: ryan.winstanley@owasp.org
+
+Michael Holt
+* Senior Security Analyst (Automotive Retail)
+* LinkedIn:
+* Email: michael.holt@owasp.org
+
+Ashley Fleet
+* Security Architecture Lead (Financial and Data Services)
+* LinkedIn:
+* Email: ashley.fleet@owasp.org
 
 <ul>
 <li>
