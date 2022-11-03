@@ -39,7 +39,7 @@ The chapter leaders are:
 
 Michael Holt
 * Senior Security Analyst (Automotive Retail)
-* LinkedIn: https://www.linkedin.com/in/michael-holt-446b7524/
+* LinkedIn: <a href="https://www.linkedin.com/in/michael-holt-446b7524/">https://www.linkedin.com/in/michael-holt-446b7524/</a>
 * Email: <a href="michael.holt@owasp.org">michael.holt@owasp.org</a>
 
 Ashley Fleet
