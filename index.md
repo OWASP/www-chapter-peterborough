@@ -34,7 +34,6 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 
 The chapter leaders are:
 |Ryan Winstanley| Michael Holt|Ashley Fleet|
-|---|---|---|---|---|
 |[LinkedIn](https://www.linkedin.com/in/ryanwinstanley/)|[LinkedIn](https://www.linkedin.com/in/michael-holt-446b7524/)|
 |[Email](mailto:ryan.winstanley@owasp.org)|[LinkedIn](https://www.linkedin.com/in/ryanwinstanley/)|
 
