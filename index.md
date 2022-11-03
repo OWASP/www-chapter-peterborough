@@ -38,7 +38,7 @@ The chapter leaders are:
 
 Michael Holt
 * Senior Security Analyst (Automotive Retail)
-* LinkedIn: https://www.linkedin.com/in/michael-holt-446b7524/
+* LinkedIn: <a href="https://www.linkedin.com/in/michael-holt-446b7524/">https://www.linkedin.com/in/michael-holt-446b7524/</a>
 * Email: <a href="michael.holt@owasp.org">michael.holt@owasp.org</a>
 
 Ashley Fleet
@@ -46,8 +46,6 @@ Ashley Fleet
 * LinkedIn:
 * Email: ashley.fleet@owasp.org
 
-<ul>
-<li>
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
