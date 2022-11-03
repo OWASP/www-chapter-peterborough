@@ -33,9 +33,37 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 * Northampton
 
 The chapter leaders are:
-|Ryan Winstanley| Michael Holt|Ashley Fleet|
-|[LinkedIn](https://www.linkedin.com/in/ryanwinstanley/)|[LinkedIn](https://www.linkedin.com/in/michael-holt-446b7524/)|
-|[Email](mailto:ryan.winstanley@owasp.org)|[LinkedIn](https://www.linkedin.com/in/ryanwinstanley/)|
+
+ <table>
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+    <th>Industry</th>
+    <th>LinkedIn</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Ryan Winstanley</td>
+    <td>Security Engineering Lead</td>
+    <td>Financial and Data Services</td>
+    <td><a href="https://www.linkedin.com/in/ryanwinstanley/">https://www.linkedin.com/in/ryanwinstanley/</a></td>
+    <td><a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a></td>
+  </tr>
+  <tr>
+    <td>Michael Holt</td>
+    <td>Senior Security Analyst</td>
+    <td>Automotive Retail</td>
+    <td><a href="https://www.linkedin.com/in/michael-holt-446b7524/">https://www.linkedin.com/in/michael-holt-446b7524/</a></td>
+    <td><a href="mailto:michael.holt@owasp.org">michael.holt@owasp.org</a></td>
+  </tr>
+  <tr>
+    <td>Ashley Fleet</td>
+    <td>Security Architecture Lead</td>
+    <td>Financial and Data Services</td>
+    <td><a href="https://www.linkedin.com/in/ashley-fleet-90036077">https://www.linkedin.com/in/ashley-fleet-90036077</td>
+    <td><a href="mailto:ashley.fleet@owasp.org">ashley.fleet@owasp.org</a></td>
+  </tr>
+</table> 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
