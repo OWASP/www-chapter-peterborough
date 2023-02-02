@@ -8,7 +8,7 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 <!--### Social Links
-* [Meetup.com](#) 
+* [Meetup.com](https://www.meetup.com/meetup-group-nsrmjush/) 
 * [EventBrite](#) 
 * [YouTube](#) -->
 
