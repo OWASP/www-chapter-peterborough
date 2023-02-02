@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Peterborough
 tags: example-tag
 region: Europe
-meetup-group:
+meetup-group: meetup-group-nsrmjush
 
 ---
 
