@@ -36,7 +36,7 @@ The chapter leaders are:
 
 
 
-| Name| Role | Industry | LinkedIn | Email
+| Name| Role | LinkedIn | Email
 | --- | --- | --- | --- | ---
 | Ryan Winstanley | Security Engineering Lead | <a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a> | <a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a>
 | Ashley Fleet | Security Architecture Lead | <a href="https://www.linkedin.com/in/ashley-fleet-90036077">LinkedIn</a> | <a href="mailto:ashley.fleet@owasp.org">ashley.fleet@owasp.org</a>
