@@ -9,8 +9,7 @@
 
 ### Social Links
 * [Meetup.com](https://www.meetup.com/meetup-group-nsrmjush/) 
-* [EventBrite](#) 
-* [YouTube](#) -->
+* [Slack Channel](https://owasp.slack.com/archives/C04PP89RJ2K) 
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-peterborough)
