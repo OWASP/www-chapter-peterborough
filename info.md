@@ -8,7 +8,7 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup.com](https://www.meetup.com/meetup-group-nsrmjush/) 
+* [Meetup.com](https://www.meetup.com/owasp-peterborough/) 
 * [Slack Channel](https://owasp.slack.com/archives/C04PP89RJ2K) 
 
 ### Code Repository

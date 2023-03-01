@@ -50,9 +50,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 ---------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
+Our next MeetUp is in Peterborough on Wednesday 29th March. Check it out here https://www.meetup.com/owasp-peterborough/.
 
 
 <!-- You should keep this section as it will populate your meetup events 
