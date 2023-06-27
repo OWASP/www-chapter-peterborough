@@ -50,7 +50,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 ---------------------
-Our next MeetUp is in Peterborough on Wednesday 29th March. Check it out here https://www.meetup.com/owasp-peterborough/.
+Our next MeetUp is in Peterborough on Wednesday 5th July. Check it out here https://www.meetup.com/owasp-peterborough/.
 
 
 <!-- You should keep this section as it will populate your meetup events 
