@@ -22,24 +22,16 @@ meetup-group: meetup-group-nsrmjush
 -->
 
 ## Welcome
-Welcome to the homepage for the OWASP Chapter for Peterborough and the surrounding area, we welcome any members from Peterborough and nearby locales such as:
-* Milton Keynes
-* Leicester
-* Nottingham 
-* Lincoln
-* Grantham
-* Newark
-* Kings Lynn
-* Northampton
-
-The chapter leaders are:
+Welcome to the homepage for the OWASP Chapter for Peterborough and the surrounding area, we welcome any members from Peterborough and surrounding areas. Whether your are in security or not - our Chapter aims to make Cyber Security accessible and build a community of technology professionals. 
 
 
+Our chapter leaders are:
 
 | Name| Role | LinkedIn | Email
 | --- | --- | --- | --- | ---
 | Ryan Winstanley | Security Engineering Lead | <a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a> | <a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a>
-| Ashley Fleet | Security Architecture Lead | <a href="https://www.linkedin.com/in/ashley-fleet-90036077">LinkedIn</a> | <a href="mailto:ashley.fleet@owasp.org">ashley.fleet@owasp.org</a>
+| Mark Dimmock | Regional Cyber Security Lead - NHS 
+| <a href="https://www.linkedin.com/in/mark854/">LinkedIn</a> | <a href="mailto:mark.dimmock@owasp.org">mark.dimmock@owasp.org</a>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -50,7 +42,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 ---------------------
-Our next MeetUp is in Peterborough on Wednesday 5th July. Check it out here https://www.meetup.com/owasp-peterborough/.
+Check out our latest events by joining our WhatsApp Community (drop us a note) or check out our MeetUp here: https://www.meetup.com/owasp-peterborough/.
 
 
 <!-- You should keep this section as it will populate your meetup events 
