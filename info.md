@@ -8,8 +8,8 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup.com](https://www.meetup.com/owasp-peterborough/) 
-* [Slack Channel](https://owasp.slack.com/archives/C04PP89RJ2K) 
+* [Meetup.com - Official Events](https://www.meetup.com/owasp-peterborough/) 
+* [WhatsApp Channel - Community Chatter + News](https://chat.whatsapp.com/Fa41PKUASFdD2EXn4lr2LC) 
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-peterborough)
