@@ -9,7 +9,6 @@
 
 ### Social Links
 * [Meetup.com - Official Events](https://www.meetup.com/owasp-peterborough/) 
-* [WhatsApp Channel - Community Chatter + News](https://chat.whatsapp.com/Fa41PKUASFdD2EXn4lr2LC) 
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-peterborough)
