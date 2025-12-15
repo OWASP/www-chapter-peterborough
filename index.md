@@ -28,7 +28,7 @@ Welcome to the homepage for the OWASP Chapter for Peterborough and the surroundi
 
 Our chapter leaders are:
 
-| Name| Role | LinkedIn | Email
+| Name | LinkedIn | Email
 | --- | --- | --- | --- | ---
 | Ryan Winstanley | <a href="https://www.linkedin.com/in/ryanwinstanley/">LinkedIn</a> | <a href="mailto:ryan.winstanley@owasp.org">ryan.winstanley@owasp.org</a>
 | Mark Dimock | <a href="https://www.linkedin.com/in/mark854/">LinkedIn</a> | <a href="mailto:mark.dimock@owasp.org">mark.dimock@owasp.org</a>
