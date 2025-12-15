@@ -42,5 +42,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 ---------------------
-Check out our latest events by joining our WhatsApp Community (drop us a note) or check out our MeetUp here: https://www.meetup.com/owasp-peterborough/.
+Check out our latest events checking out our MeetUp here: https://www.meetup.com/owasp-peterborough/.
 
