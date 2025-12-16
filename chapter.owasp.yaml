@@ -1,0 +1,25 @@
+leaders:
+  - name: Ryan Winstanley
+    email: ryan.winstanley@owasp.org
+    github: winsyr
+  - name: Ashley Fleet
+    email: ashley.fleet@owasp.org
+    github: ashfleet
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Peterborough
+  latitude: 52.5725769
+  longitude: -0.2427336
+meetup_group: meetup-group-nsrmjush
+name: OWASP Peterborough
+repositories:
+  - name: www-chapter-peterborough
+    url: https://github.com/OWASP/www-chapter-peterborough
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-peterborough
